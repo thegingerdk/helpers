@@ -1,0 +1,14 @@
+{
+    "name": "thegingerdk/helpers",
+    "description": "Helper class for my code",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Fosmark",
+            "email": "accounts@theginger.dk"
+        }
+    ],
+    "require": {}
+}
